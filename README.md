@@ -1,15 +1,9 @@
-# 🚀 Welcome to your new awesome project!
+Test project for game development using PIXI JS and webpack. 
 
-This project has been created using **webpack-cli**, you can now run
+This project focuses on performance optimization for game development using techniques likes 
+  1) Object pooling
+  2) Particle container
+  3) Spritesheet Texture caching 
+  4) Proper event management 
 
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+Preview: https://spectacular-flan-49dd56.netlify.app
